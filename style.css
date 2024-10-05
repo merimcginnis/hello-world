@@ -11,6 +11,12 @@ main {
     width: 800px;
 }
 
+.masthead {
+    background-image: url('images/mac\ image.png');
+    height: 200px;
+}
+
+
 .details {
     display: flex;
     gap: 25px;
@@ -20,12 +26,14 @@ main {
     flex-grow: 1;
     flex-basis: 0;
     background: #eee;
-    padding: 20px;
+    padding: 25px;
     border-radius: 20px;
+    margin-top: 25px;
 }
 
 img{
     width: 100%;
+
 }
 
 h2{
