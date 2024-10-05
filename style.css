@@ -26,7 +26,7 @@ main {
     gap: 25px;
 }
 
-.details section{
+.details section {
     flex-grow: 1;
     flex-basis: 0;
     background: #eee;
@@ -34,11 +34,11 @@ main {
     margin-top: 25px;
 }
 
-.details section p{
+.details section p {
     margin: 20px;
 }
 
-.details section h2{
+.details section h2 {
     margin: 20px;
 }
 
